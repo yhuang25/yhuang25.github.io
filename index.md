@@ -3,7 +3,7 @@ title: Time Series
 description: Construction Time Series Graphing
 ---
 
-![](/pics/)
+![My picture](/timeseries/timeseries.png)
 
 This is content I've developed for my courses:
 
