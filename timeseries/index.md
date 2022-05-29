@@ -8,4 +8,4 @@ Here is a Time Series Graphing I use in my CTBA course
 - [Time series Graphing (ipynb)](M3Graphing.ipynb)
 
 Landing page
--[Landing page](https://yhuang25.github.io/)
+-[Return to main site](https://yhuang25.github.io/)
