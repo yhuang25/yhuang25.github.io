@@ -1,6 +1,6 @@
 ---
-title: Construction Time Series Data
-description: Time series
+title: Time Series
+description: Construction Time Series Data
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
